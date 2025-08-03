@@ -64,7 +64,7 @@ malaria-detection-thesis/
 2. **Run Jupyter notebooks:**
 
    * Open VS Code or run `jupyter notebook` from the project root.
-   * All experimental notebooks are in the `notebooks/` folder.
+   * Start with `notebooks/eda.ipynb` for data exploration.
 
 3. **Data:**
 
@@ -76,6 +76,6 @@ malaria-detection-thesis/
    * All output images, visualizations, and logs are in `results/`.
    * Documentation and thesis write-ups are in `reports/`.
 
-## License
+---
 
 This code is intended for academic and research use only.
