@@ -15,6 +15,7 @@ data/
 results/
 
 reports/
+.github/
 
 # OS files
 .DS_Store
